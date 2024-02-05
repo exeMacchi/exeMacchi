@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">Frontend Skills</h3>
+<h3 align="left">Frontend</h3>
 
 ###
 
