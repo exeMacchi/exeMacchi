@@ -1,12 +1,8 @@
-<h1 align="left">Exequiel Lautaro Macchi</h1>
+<h1 align="left">¡Buenas! 👋</h1>
 
 ###
 
-<h3 align="left">Desarrollador Full Stack Node.js y .NET || Desarrollador de Software C#</h3>
-
-###
-
-<p align="left">¡Buenas! 👋 Me llamo Exequiel y soy de San Carlos de Bariloche, Río Negro, Argentina ⛄🏞</p>
+<p align="left">Me llamo Exequiel y soy de San Carlos de Bariloche, Río Negro, Argentina ⛄🏞</p>
 
 ###
 
